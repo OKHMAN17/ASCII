@@ -103,7 +103,7 @@ To run this project, follow these steps:
 
 2. **Navigate to the project folder**:
    ```bash
-   cd word_to_ascii.py
+   cd word_to_ascii
    ```
 
 3. **Run the program**:
@@ -128,15 +128,4 @@ If you would like to contribute to this project, feel free to fork the repositor
 - **How ASCII Works**: ASCII (American Standard Code for Information Interchange) represents characters as numeric codes. The most common codes include values like 65 for 'A', 66 for 'B', and so on. ASCII codes are used in various systems and can be represented in different bases, such as binary, octal, decimal, and hexadecimal.
   
 - **Why Convert Between Bases**: Understanding how to convert between numeral systems is an essential skill in computer science and programming. It allows for easier representation of data in different formats, as different systems use different bases to store and manipulate data efficiently.
-```
-
-### What to do next:
-1. **Create the README.md file** in your project directory.
-2. **Copy-paste** the above content into the `README.md` file.
-3. **Commit and push** the changes to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add detailed project description"
-git push origin main  # Or master if that's your default branch
 ```
