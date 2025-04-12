@@ -98,7 +98,7 @@ To run this project, follow these steps:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/word_to_ascii.git
+   git clone https://github.com/yourusername/ASCII.git
    ```
 
 2. **Navigate to the project folder**:
